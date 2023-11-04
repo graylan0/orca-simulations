@@ -1,0 +1,422 @@
+{
+"Metadata":[
+ {
+  "Puget Sound Indicator Name": "Number of Southern Resident killer whales",
+  "Puget Sound Indicator Type": "Vital Sign Indicator",
+  "Measurement Unit": "Each Unit (number)",
+  "Data Sources": "Annual Census as reported to National Oceanographic and Atmospheric Administration (NOAA) by the Center for Whale Research\n",
+  "Puget Sound Indicator Lead": "Lynne Barre (US NOAA) lynne.barre@noaa.gov",
+  "Date Downloaded": "11\/3\/2023"
+ }
+],
+"Chart Data":[
+ {
+  "Census year": "1973",
+  "All pods": "66",
+  "L pod": "37",
+  "J pod": "14",
+  "K pod": "15",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1974",
+  "All pods": "70",
+  "L pod": "39",
+  "J pod": "15",
+  "K pod": "16",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1975",
+  "All pods": "71",
+  "L pod": "41",
+  "J pod": "15",
+  "K pod": "15",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1976",
+  "All pods": "70",
+  "L pod": "40",
+  "J pod": "16",
+  "K pod": "14",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1977",
+  "All pods": "79",
+  "L pod": "46",
+  "J pod": "18",
+  "K pod": "15",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1978",
+  "All pods": "79",
+  "L pod": "46",
+  "J pod": "18",
+  "K pod": "15",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1979",
+  "All pods": "81",
+  "L pod": "47",
+  "J pod": "19",
+  "K pod": "15",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1980",
+  "All pods": "83",
+  "L pod": "49",
+  "J pod": "19",
+  "K pod": "15",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1981",
+  "All pods": "81",
+  "L pod": "47",
+  "J pod": "19",
+  "K pod": "15",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1982",
+  "All pods": "78",
+  "L pod": "45",
+  "J pod": "19",
+  "K pod": "14",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1983",
+  "All pods": "76",
+  "L pod": "43",
+  "J pod": "19",
+  "K pod": "14",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1984",
+  "All pods": "74",
+  "L pod": "43",
+  "J pod": "17",
+  "K pod": "14",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1985",
+  "All pods": "77",
+  "L pod": "45",
+  "J pod": "18",
+  "K pod": "14",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1986",
+  "All pods": "81",
+  "L pod": "48",
+  "J pod": "17",
+  "K pod": "16",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1987",
+  "All pods": "84",
+  "L pod": "49",
+  "J pod": "18",
+  "K pod": "17",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1988",
+  "All pods": "85",
+  "L pod": "48",
+  "J pod": "19",
+  "K pod": "18",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1989",
+  "All pods": "85",
+  "L pod": "50",
+  "J pod": "18",
+  "K pod": "17",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1990",
+  "All pods": "89",
+  "L pod": "53",
+  "J pod": "18",
+  "K pod": "18",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1991",
+  "All pods": "92",
+  "L pod": "55",
+  "J pod": "20",
+  "K pod": "17",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1992",
+  "All pods": "91",
+  "L pod": "56",
+  "J pod": "19",
+  "K pod": "16",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1993",
+  "All pods": "97",
+  "L pod": "59",
+  "J pod": "21",
+  "K pod": "17",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1994",
+  "All pods": "96",
+  "L pod": "57",
+  "J pod": "20",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1995",
+  "All pods": "98",
+  "L pod": "58",
+  "J pod": "22",
+  "K pod": "18",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1996",
+  "All pods": "97",
+  "L pod": "56",
+  "J pod": "22",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1997",
+  "All pods": "92",
+  "L pod": "52",
+  "J pod": "21",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1998",
+  "All pods": "89",
+  "L pod": "49",
+  "J pod": "22",
+  "K pod": "18",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "1999",
+  "All pods": "85",
+  "L pod": "48",
+  "J pod": "20",
+  "K pod": "17",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2000",
+  "All pods": "83",
+  "L pod": "47",
+  "J pod": "19",
+  "K pod": "17",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2001",
+  "All pods": "80",
+  "L pod": "42",
+  "J pod": "20",
+  "K pod": "18",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2002",
+  "All pods": "82",
+  "L pod": "43",
+  "J pod": "20",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2003",
+  "All pods": "82",
+  "L pod": "41",
+  "J pod": "22",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2004",
+  "All pods": "87",
+  "L pod": "43",
+  "J pod": "23",
+  "K pod": "21",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2005",
+  "All pods": "87",
+  "L pod": "43",
+  "J pod": "24",
+  "K pod": "20",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2006",
+  "All pods": "84",
+  "L pod": "41",
+  "J pod": "24",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2007",
+  "All pods": "87",
+  "L pod": "43",
+  "J pod": "25",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2008",
+  "All pods": "83",
+  "L pod": "40",
+  "J pod": "24",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2009",
+  "All pods": "86",
+  "L pod": "40",
+  "J pod": "27",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2010",
+  "All pods": "86",
+  "L pod": "41",
+  "J pod": "26",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2011",
+  "All pods": "88",
+  "L pod": "42",
+  "J pod": "27",
+  "K pod": "20",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2012",
+  "All pods": "82",
+  "L pod": "37",
+  "J pod": "26",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2013",
+  "All pods": "82",
+  "L pod": "37",
+  "J pod": "26",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2014",
+  "All pods": "78",
+  "L pod": "34",
+  "J pod": "25",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2015",
+  "All pods": "81",
+  "L pod": "35",
+  "J pod": "27",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2016",
+  "All pods": "83",
+  "L pod": "35",
+  "J pod": "29",
+  "K pod": "19",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2017",
+  "All pods": "77",
+  "L pod": "35",
+  "J pod": "24",
+  "K pod": "18",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2018",
+  "All pods": "75",
+  "L pod": "34",
+  "J pod": "23",
+  "K pod": "18",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2019",
+  "All pods": "73",
+  "L pod": "34",
+  "J pod": "22",
+  "K pod": "17",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2020",
+  "All pods": "72",
+  "L pod": "33",
+  "J pod": "22",
+  "K pod": "17",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2021",
+  "All pods": "74",
+  "L pod": "33",
+  "J pod": "24",
+  "K pod": "17",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2022",
+  "All pods": "73",
+  "L pod": "32",
+  "J pod": "25",
+  "K pod": "16",
+  "Chart Axis Label": "Number of whales"
+ },
+ {
+  "Census year": "2023",
+  "All pods": "75",
+  "L pod": "34",
+  "J pod": "25",
+  "K pod": "16",
+  "Chart Axis Label": "Number of whales"
+ }
+]
+}
